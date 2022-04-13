@@ -41,3 +41,7 @@ se podran generar archivos HTML PDFs sin problemas, para
 R 3.6.3 en Rstudio.
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+KEVIN VASQUEZ B
+APRIL-2022
+
