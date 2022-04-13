@@ -1,0 +1,43 @@
+####### INSTALACION DE R 3.6.3 EN VMWARE WORKSTATION ####### 
+
+# PASO 1 -------------------------------------------------------
+
+Instalar el R base del CRAN con la version 3.6.3 para windows
+
+	https://cran.r-project.org/bin/windows/base/old/3.6.3/
+ 
+# PASO 2 -------------------------------------------------------
+
+Instalar R studio como IDE para correr R base
+
+	https://www.rstudio.com/products/rstudio/download/
+
+
+# PASO 3 -------------------------------------------------------
+
+Actualizar las librerias (Packages)  del R, dando clic en el boton del UPDATE
+y esperar que termine correctamente. 
+
+# PASO 4 -------------------------------------------------------
+
+Para poder hacer uso del MARKDOWN se necesita instalar LATEX esto se lo hace 
+con el siguiente comando en la consola de Rstudio
+
+	install.packages("tinytex")
+
+# PASO 5 -------------------------------------------------------
+
+Crear un archivo de R MARKDOWN para poder generar un archivo PDF
+
+Clic en el boton de KNIT (bola de lana )
+
+	- Clic en Knit to PDF
+	- agregar un nombre al archivo y esperar
+	
+################################################################################
+
+Con esto ya estaria configurado nuestro espacio de trabajo y 
+se podran generar archivos HTML PDFs sin problemas, para 
+R 3.6.3 en Rstudio.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
